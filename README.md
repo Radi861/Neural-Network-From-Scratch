@@ -1,4 +1,4 @@
-# Neural-Network-From-Scratch
+# Machine-Learning-Image-Processing-Project
 A Machine Learning project where I train and use models for image classification and generation
 ## Tasks
 1. Implement linear and polynomial fitting to data and report the L2 loss
